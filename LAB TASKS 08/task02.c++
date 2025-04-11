@@ -46,7 +46,7 @@ int main() {
     Account acc1("A1001", 1000.0);
     Account acc2("A1002", 500.0);
     
-    Manager mgr; // Create Manager object
+    Manager mgr;
     
     mgr.displayAccountDetails(acc1);
     mgr.displayAccountDetails(acc2);
