@@ -1,0 +1,3 @@
+This is the first part of log
+This is the second part of log
+And this is the third part
